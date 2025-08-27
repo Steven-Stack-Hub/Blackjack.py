@@ -31,3 +31,4 @@ elif rank == "J" or rank == "Q" or rank == "K":
 else:
     value = int(rank)
 printrank_dict = {'rank': rank, 'value': value}
+
