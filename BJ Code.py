@@ -143,6 +143,8 @@ class Game:
                 print("Dealer wins!")
             else:
                 print("It's a push!")
+                
+            print("Thanks for Playing!")
 
 
     def check_winner(self, player_hand, dealer_hand):
